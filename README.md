@@ -1,6 +1,6 @@
 # codebrutale/lein-template
 
-An internal Leiningen template for Code Brutale.
+A Leiningen template customized for Code Brutale.
 
 ## Usage
 
