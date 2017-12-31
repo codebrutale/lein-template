@@ -1,4 +1,4 @@
-(defproject codebrutale/lein-template "0.2.0"
+(defproject codebrutale/lein-template "0.2.1-SNAPSHOT"
   :description "A Leiningen template customized for Code Brutale"
   :url "https://github.com/codebrutale/lein-template"
   :license {:name "Eclipse Public License"
