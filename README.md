@@ -2,6 +2,8 @@
 
 A Leiningen template customized for Code Brutale.
 
+[![Clojars Project](https://img.shields.io/clojars/v/codebrutale/lein-template.svg)](https://clojars.org/codebrutale/lein-template)
+
 ## Usage
 
 ```.sh
